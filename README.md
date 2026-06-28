@@ -5,6 +5,7 @@ Telegram bot for logging expenses into Google Sheets.
 Architecture
 
 Telegram
+
 ↓
 
 Python Bot
