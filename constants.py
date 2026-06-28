@@ -50,7 +50,6 @@ FLOW_CATEGORIES = [
 
 INFLOW_CATEGORIES = [
     "Salary",
-    "Bonus",
     "PayNow Transfer",
     "SSB Interest",
     "Other",
