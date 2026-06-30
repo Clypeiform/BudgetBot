@@ -24,7 +24,7 @@ Everything in this file is safe to commit to Git.
 
 ACCOUNTS = [
     "Mari Credit",
-    "POSB Everyday",
+    "DBS Multiplier",
     "Cash",
     "SC JumpStart",
     "UOB Absolute",
